@@ -1,7 +1,7 @@
 # Computer-Vision
 ## SAM: Segmented Anything Model in Computer Vision for Geospatial Data Analysis
 ## Introduction
-SAM is a cutting-edge model designed to revolutionize geospatial data analysis by enabling the segmentation of a wide array of objects in geospatial imagery. These projects provide SAM's capabilities and how to harness its potential for geospatial projects.
+SAM is a cutting-edge model designed to revolutionize geospatial data analysis by enabling the segmentation of a wide array of objects in geospatial imagery. By utilizing state-of-the-art techniques in computer vision, SAM empowers to extract valuable insights and actionable information from geospatial data more effectively than ever before. These projects provide SAM's capabilities and how to harness its potential for geospatial projects.
 ## Table of Contents
 1. Overview
 2. Key Features
