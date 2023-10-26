@@ -27,7 +27,7 @@ SAM offers an array of applications in geospatial data analysis:
 4. **Environmental Monitoring:** Use SAM to contribute to environmental preservation and monitoring.
 
 ### Examples
-Explore the examples within this repository which show how SAM works. These examples demonstrate how to utilize SAM for geospatial data analysis.
+These examples demonstrate how to utilize SAM for geospatial data analysis.
 
 ### Acknowledgments
 I extend my gratitude to the geospatial community and the developers behind SAM and sam-geo for their invaluable contributions, and to our enthusiastic user community for driving the advancement of geospatial data analysis.
